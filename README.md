@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/TheCrazyDabi">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Dabi+Profile.;Coding+is+My+Second+Language.;Learning+AI,+Robotics+and+Hacking!"
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Dabi+Profile.;Coding+is+My+Second+Language.;Learning+AI,+Robotics+and+CyberSecurity!"
             alt="Typing SVG"
         />
     </a>
