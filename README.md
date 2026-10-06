@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-Profile powered by <a href="https://github.com/TheCrazyDabi">Dabi</a> + Eliz 🤖💙<br>
+Profile powered by <a href="https://github.com/TheCrazyDabi">Dabi</a>💙<br>
 | © | All Rights Reserved |
 </p>
 
