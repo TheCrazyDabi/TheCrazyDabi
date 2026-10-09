@@ -1,9 +1,8 @@
 # Vasudev Saras K M | Robotics, Vehicle Dynamics & Security
 
-<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/TheCrazyDabi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Robotics+%26+Automation+Engineering+Student;Baja+SAE+%7C+Chassis+%26+Suspension+Engineering;Autonomous+Robots+%26+Vision-Inertial+Navigation;Cybersecurity+%26+Intelligent+Systems;Building+systems+that+sense%2C+think+and+act" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Robotics+%26+Automation+Engineering+Student;Baja+SAE+%7C+Chassis+%26+Suspension+Engineering;Autonomous+Robots+%26+Vision-Inertial+Navigation;Embedded+Systems+%26+Robotic+Manipulation;Cybersecurity+%26+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,49 +27,52 @@
 ## 🧭 About Me
 
 - 🎓 B.Tech student in **Robotics and Automation** at Saintgits College of Engineering.
-- 🏎️ Involved in Baja SAE engineering, exploring roll cage design, suspension geometry, steering systems and vehicle dynamics.
-- 🤖 Working toward autonomous robotics through perception, navigation and intelligent control.
+- 🏎️ Working on Baja SAE engineering, including roll cage design, suspension kinematics, steering geometry and vehicle dynamics.
+- 🦾 Building robotic manipulation systems with embedded motor control and voice-enabled interfaces.
+- 🚑 Exploring autonomous robotics, vision-inertial navigation and intelligent control.
 - 🔐 Interested in cybersecurity, network analysis, threat detection and defensive security tooling.
-- 🧠 Exploring how mechanical systems, electronics, AI and software work together to create intelligent machines.
+- 🧠 Passionate about connecting mechanical engineering, electronics, AI and software to build intelligent systems.
 
 ## 🔭 Focus Areas
 
 | Domain | What I Work On |
 |---|---|
-| 🤖 **Robotics & Automation** | Autonomous navigation, computer vision, sensing and control systems |
-| 🏎️ **Baja SAE & Vehicle Engineering** | Roll cage CAD, suspension kinematics, steering geometry and vehicle dynamics |
-| 🧠 **Artificial Intelligence** | Computer vision, applied machine learning and AI integration |
-| 🔐 **Cybersecurity** | Packet analysis, threat detection, secret scanning and security dashboards |
-| ⚡ **Embedded Systems** | Microcontrollers, sensor integration and hardware-software interfacing |
+| 🤖 Robotics & Automation | Robotic manipulation, autonomous navigation, perception and control |
+| 🏎️ Baja SAE & Vehicle Engineering | Roll cage CAD, suspension kinematics, steering geometry and vehicle dynamics |
+| ⚡ Embedded Systems | ESP32, motor drivers, sensors and hardware-software integration |
+| 🧠 Artificial Intelligence | Computer vision, applied machine learning and AI integration |
+| 🔐 Cybersecurity | Packet analysis, threat detection, secret scanning and security dashboards |
 
 ## 🚀 Featured Projects & Engineering Work
 
 ### 🏎️ Baja SAE | Chassis, Suspension & Vehicle Dynamics
 
-Exploring the engineering behind off-road competition vehicles, from chassis packaging and suspension kinematics to steering geometry and vehicle dynamics.
+Exploring the engineering of off-road competition vehicles, from chassis design and suspension geometry to steering systems and vehicle dynamics.
 
 **Roll Cage Design & Chassis Engineering**
-- Developing and evaluating roll cage geometry using **SolidWorks**.
-- Working with chassis packaging, structural layout and component integration.
-- Considering applicable Baja SAE rulebook requirements during the design process.
+- Developing roll cage geometry and chassis layouts using **SolidWorks**.
+- Working with structural layout, chassis packaging and component integration.
+- Considering applicable Baja SAE rulebook requirements during design.
 - Exploring structural validation and safety-oriented design considerations.
 
 **Suspension Geometry & Kinematics**
 - Using **Lotus Suspension Analysis** to study suspension geometry and kinematic behaviour.
-- Exploring parameters such as camber, toe, roll centre, motion ratio and bump steer.
-- Studying anti-dive and anti-squat characteristics and their influence on vehicle behaviour.
+- Exploring camber, toe, roll centre, motion ratio and bump steer.
+- Studying anti-dive and anti-squat characteristics.
 - Using suspension hardpoints and geometric relationships to guide design iterations.
 
 **Steering System Engineering**
 - Studying rack-and-pinion steering geometry, tie-rod positioning and steering-arm configuration.
-- Investigating rack travel, wheel steering angles and steering effort.
-- Exploring steering geometry changes and their impact on vehicle handling.
+- Investigating rack travel, steering angles and steering effort.
+- Exploring Ackermann steering geometry and its relationship to vehicle handling.
 
 **Vehicle Dynamics & Simulation**
 - Exploring **MSC ADAMS/Car** for vehicle dynamics and system-level simulation.
-- Connecting mechanical design decisions with suspension behaviour and vehicle performance.
+- Investigating how chassis, suspension and steering decisions influence vehicle behaviour.
 
 **Engineering Toolchain:** SolidWorks · Lotus Suspension Analysis · MSC ADAMS/Car
+
+---
 
 ### 🚑 Autonomous First-Responder | Final-Year Project
 
@@ -82,14 +84,49 @@ Developing an autonomous robotic system intended to navigate campus environments
 - Investigating visual-inertial navigation and autonomous mobility.
 - Working toward the integration of sensing, decision-making and robotic control.
 
+**Focus Areas:** Computer Vision · IMU Integration · Visual-Inertial Navigation · Autonomous Robotics
+
+---
+
+### 🦾 MediArm | Voice-Controlled Robotic Manipulator
+
+A **3-DOF robotic manipulator** project combining embedded motor control, voice interaction and a web-based interface for intuitive robotic arm operation.
+
+**Hardware & Actuation**
+- Using an **ESP32** for hardware control and command execution.
+- Integrating **IBT-2 motor drivers based on the BTS7960** for DC motor control.
+- Working with **MG996R motors** for manipulator actuation and an **SG90 servo** for gripper control.
+- Integrating power conversion and motor supply components.
+
+**Software & Human-Machine Interface**
+- Developing a browser-based control interface using **Python and Flask**.
+- Integrating **Vosk offline speech recognition** for voice-based commands.
+- Implementing manual control buttons and voice start/stop functionality.
+- Including an emergency stop control in the web interface.
+- Connecting user inputs to the embedded hardware control layer.
+
+**System Architecture**
+
+Web UI / Voice Input → Flask Server → Command Processing → ESP32 → Motor Drivers → Manipulator & Gripper
+
+**Technologies:** ESP32 · Python · Flask · Vosk · BTS7960 · MG996R · SG90
+
+**Engineering Focus:** Robotic Manipulation · Embedded Systems · Motor Control · Voice Interfaces · Hardware-Software Integration
+
+---
+
 ### 🛡️ Rakuzan SOC | Git Secret Scanner
 
 A full-stack security operations dashboard built with **Flask and Socket.IO**.
 
 - Detects leaked credentials across 30+ secret-pattern types, including AWS keys and GitHub tokens.
 - Uses SQLite for persistent data storage.
-- Includes risk scoring and a cyberpunk-inspired security operations interface.
+- Includes a risk-scoring engine and a cyberpunk-inspired security operations interface.
 - Integrates Globe.gl for interactive threat visualization.
+
+**Technologies:** Python · Flask · Socket.IO · SQLite · JavaScript · Globe.gl
+
+---
 
 Browse all projects → [GitHub Repositories](https://github.com/TheCrazyDabi?tab=repositories)
 
@@ -138,17 +175,18 @@ Browse all projects → [GitHub Repositories](https://github.com/TheCrazyDabi?ta
 
 ## 🎯 Currently Exploring
 
-- 🏎️ Improving my understanding of Baja vehicle design, suspension kinematics and steering systems.
-- 📐 Working with SolidWorks for chassis and roll cage geometry.
-- 📊 Exploring Lotus Suspension Analysis and ADAMS/Car for suspension and vehicle dynamics.
-- 🤖 Deepening my knowledge of visual-inertial odometry, SLAM and autonomous navigation.
-- 🔐 Researching network security and defensive security tooling.
+- 🏎️ Baja vehicle design, roll cage geometry, suspension kinematics and steering systems.
+- 📐 CAD modelling and engineering design using SolidWorks.
+- 📊 Suspension and vehicle dynamics analysis using Lotus Suspension Analysis and ADAMS/Car.
+- 🦾 Embedded motor control and human-machine interfaces for robotic manipulation.
+- 🚑 Visual-inertial odometry, SLAM and autonomous navigation.
+- 🔐 Network security and defensive security tooling.
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on robotics, autonomous systems, vehicle engineering, simulation and security-focused projects.
+I'm interested in collaborating on robotics, autonomous systems, vehicle engineering, embedded systems, simulation and security-focused projects.
 
-Feel free to explore my repositories, share ideas or open an issue to discuss a project.
+Explore my repositories, share ideas or open an issue to discuss a project.
 
 <p align="center">
   <i>Building systems that sense, think, move and act.</i><br><br>
