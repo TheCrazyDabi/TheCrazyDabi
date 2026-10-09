@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/TheCrazyDabi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineering+Student;Embodied+AI+%26+Semantic+Navigation;Cybersecurity+Enthusiast+%26+Researcher;Building+systems+that+sense%2C+think+and+act" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Robotics+%26+Automation+Engineering+Student;Vision-Inertial+Navigation+%26+Autonomous+Robots;Cybersecurity+Enthusiast+%26+Researcher;Building+systems+that+sense%2C+think+and+act" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ## 🧭 About Me
 
 - 🎓 B.Tech, **Robotics and Automation** — Saintgits College of Engineering
-- 🤖 Final-year project: **Embodied Semantic Navigation** — robots that understand their environment, not just map it
+- 🚑 Final-year project: **Autonomous First-Responder** — low-cost vision-inertial navigation for campus emergencies
 - 🔐 Cybersecurity enthusiast and researcher — network analysis, threat detection, secret scanning, authorized recon tooling
 - 🧠 Exploring where AI meets physical systems and security
 - 💻 Coding is my second language
@@ -32,29 +32,19 @@
 
 | Domain | What I work on |
 |---|---|
-| 🤖 **Robotics & Automation** | Autonomous navigation, perception, embodied AI, control systems |
-| 🧠 **Artificial Intelligence** | Semantic understanding, LLM integration, applied ML |
+| 🤖 **Robotics & Automation** | Autonomous navigation, vision-inertial sensing, perception, control systems |
+| 🧠 **Artificial Intelligence** | Computer vision, LLM integration, applied ML |
 | 🔐 **Cybersecurity** | Packet analysis, intrusion/threat detection, secret scanning, security dashboards |
 
 ## 🚀 Featured Projects
 
-### 🧭 Embodied Semantic Navigation — *Final-Year Project*
-Research-oriented B.Tech project on enabling robots to navigate using semantic understanding of their surroundings.
-
-### 📡 NetSentinel v2.0
-Terminal-based WiFi packet sniffer written in Python, built from scratch with **Scapy** and **Rich**.
-- Threat detection: port scans, DDoS patterns, ARP spoofing, suspicious DNS
-- SQLite event logging and a live dashboard UI
+### 🚑 Autonomous First-Responder — *Final-Year Project*
+**Low-cost vision-inertial navigation for campus emergencies.** An autonomous robot that navigates using affordable camera and inertial sensing, aimed at responding to emergencies on a campus.
 
 ### 🛡️ Rakuzan SOC (Git Secret Scanner)
 Full-stack security operations dashboard built with **Flask + SocketIO**.
 - Detects leaked credentials across **30+ secret pattern types** (AWS keys, GitHub tokens and more)
 - SQLite backend, risk-scoring engine, and a cyberpunk-style SOC UI with **Globe.gl** threat visualization
-
-### 🐞 Bug Hunter Assistant
-**PyQt6** desktop application for **authorized** security reconnaissance.
-- Four-layer architecture with **SQLite**, **Pandas** and **ReportLab** reporting
-- Optional LLM integration for analysis assistance
 
 > Browse all repositories → [github.com/TheCrazyDabi?tab=repositories](https://github.com/TheCrazyDabi?tab=repositories)
 
@@ -95,13 +85,13 @@ Full-stack security operations dashboard built with **Flask + SocketIO**.
 
 ## 🎯 Currently
 
-- 🔧 Developing my final-year project on embodied semantic navigation
-- 📚 Deepening knowledge of robot perception, SLAM and AI-driven autonomy
+- 🔧 Building my final-year project, Autonomous First-Responder (low-cost vision-inertial navigation)
+- 📚 Deepening knowledge of visual-inertial odometry, SLAM and AI-driven autonomy
 - 🔍 Researching network security and defensive tooling
 
 ## 🤝 Let's Connect
 
-I'm open to collaborating on robotics, embodied AI and security-focused projects. Reach out via GitHub or open an issue on any of my repositories.
+I'm open to collaborating on robotics, autonomous navigation and security-focused projects. Reach out via GitHub or open an issue on any of my repositories.
 
 <p align="center">
   <i>Building systems that sense, think and act.</i><br><br>
