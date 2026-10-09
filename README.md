@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Dabi 👋</h1>
+<h1 align="center">Hi, I'm Vasudev Saras aka Dabi 👋</h1>
 
 <p align="center">
   B.Tech student in <b>Robotics &amp; Automation</b> at <b>Saintgits College of Engineering</b><br>
